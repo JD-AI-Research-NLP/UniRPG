@@ -1,2 +1,2 @@
 # UniRPG
-You can access the code of UniRPG by visiting https://github.com/phddamuge/UniRPG
+You can access the code of UniRPG from https://github.com/phddamuge/UniRPG
